@@ -1,0 +1,125 @@
+{
+  "report_period": {
+    "start": "2026-10-01",
+    "end": "2026-12-31"
+  },
+  "claims": [
+    {
+      "claim_id": "CLM-0001",
+      "decision": "APPROVED",
+      "approved_amount": 498.0,
+      "reason": "WITHIN_POLICY"
+    },
+    {
+      "claim_id": "CLM-0002",
+      "decision": "APPROVED",
+      "approved_amount": 929.0,
+      "reason": "WITHIN_POLICY"
+    },
+    {
+      "claim_id": "CLM-0003",
+      "decision": "APPROVED",
+      "approved_amount": 1995.0,
+      "reason": "WITHIN_POLICY"
+    },
+    {
+      "claim_id": "CLM-0004",
+      "decision": "ADJUSTED",
+      "approved_amount": 667.0,
+      "reason": "CLASS_LIMIT"
+    },
+    {
+      "claim_id": "CLM-0005",
+      "decision": "ADJUSTED",
+      "approved_amount": 498.0,
+      "reason": "OVERCLAIM"
+    },
+    {
+      "claim_id": "CLM-0006",
+      "decision": "APPROVED",
+      "approved_amount": 481.11,
+      "reason": "WITHIN_POLICY"
+    },
+    {
+      "claim_id": "CLM-0007",
+      "decision": "APPROVED",
+      "approved_amount": 74.5,
+      "reason": "WITHIN_POLICY"
+    },
+    {
+      "claim_id": "CLM-0008",
+      "decision": "ADJUSTED",
+      "approved_amount": 99.5,
+      "reason": "CLASS_LIMIT"
+    },
+    {
+      "claim_id": "CLM-0009",
+      "decision": "APPROVED",
+      "approved_amount": 199.5,
+      "reason": "WITHIN_POLICY"
+    },
+    {
+      "claim_id": "CLM-0010",
+      "decision": "ADJUSTED",
+      "approved_amount": 74.5,
+      "reason": "OVERCLAIM"
+    },
+    {
+      "claim_id": "CLM-0011",
+      "decision": "APPROVED",
+      "approved_amount": 67.0,
+      "reason": "WITHIN_POLICY"
+    },
+    {
+      "claim_id": "CLM-0012",
+      "decision": "APPROVED",
+      "approved_amount": 107.0,
+      "reason": "WITHIN_POLICY"
+    },
+    {
+      "claim_id": "CLM-0013",
+      "decision": "ADJUSTED",
+      "approved_amount": 67.0,
+      "reason": "CLASS_LIMIT"
+    },
+    {
+      "claim_id": "CLM-0014",
+      "decision": "APPROVED",
+      "approved_amount": 79.9,
+      "reason": "WITHIN_POLICY"
+    },
+    {
+      "claim_id": "CLM-0015",
+      "decision": "APPROVED",
+      "approved_amount": 290.0,
+      "reason": "WITHIN_POLICY"
+    },
+    {
+      "claim_id": "CLM-0016",
+      "decision": "REJECTED",
+      "approved_amount": 0.0,
+      "reason": "TRAIN_NOT_FOUND"
+    },
+    {
+      "claim_id": "CLM-0017",
+      "decision": "REJECTED",
+      "approved_amount": 0.0,
+      "reason": "OUT_OF_PERIOD"
+    },
+    {
+      "claim_id": "CLM-0018",
+      "decision": "REJECTED",
+      "approved_amount": 0.0,
+      "reason": "DUPLICATE"
+    }
+  ],
+  "summary": {
+    "total_claims": 18,
+    "approved_count": 10,
+    "adjusted_count": 5,
+    "rejected_count": 3,
+    "total_claimed": 8046.21,
+    "total_approved": 6127.01,
+    "total_disallowed": 1919.2
+  }
+}
